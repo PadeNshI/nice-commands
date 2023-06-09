@@ -1,1 +1,2 @@
-
+#Get serialnumber fom commandsline
+wmic bios get serialnumber
